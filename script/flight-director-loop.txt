@@ -7811,13 +7811,13 @@ As soon as we know a little more about what we really ought to do, then we'll pr
 I'd like to have a little more information upon the crew's trajectory with relation to the Moon that we could pass up.
 
 [59 34 00 - 59 34 18] FLIGHT
-Yes, and INCO is gonna - at the end of this go-around the room, we're going to ask the crew to standby for about 25 seconds of COMM loss while we do some reconfiguring in an attempt to get tracking on the LM. Okay? But we still think they're close - FDO, FLIGHT? What -
+Yes, and INCO is gonna - at the end of this go-around the room, we're going to ask the crew to standby for about 25 seconds of COMM loss while we do some reconfiguring in an attempt to get tracking on the LM. Okay? But we think they're still close - FDO, FLIGHT? What -
 
 [59 34 19] FDO
 Go, FLIGHT.
 
 [59 34 19 - 59 34 22] FLIGHT
-What closest approach are you estimating right now on the LM?
+What closest approach are you estimating now on the LM?
 
 [59 34 23 - 59 34 25] FDO
 Still looking at about 60 miles, FLIGHT.
