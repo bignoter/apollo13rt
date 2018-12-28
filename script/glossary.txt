@@ -255,7 +255,7 @@ Open-circuit
 To break a circuit physically so it no longer forms a loop. This was as much as one could do to ensure an electrical circuit was entirely offline.
 
 Orbital Rate Display Earth and Lunar (ORDEAL)
-Where the FDAI normally aligned against an absolute frame of reference against the universe given a REFSMMAT, the ORDEAL mode shifted its zero origin to mimick an aircraft's artificial horizon when orbiting the Earth or Moon, which was helpful for test pilots used to flying aircraft.
+Where the FDAI normally aligned against an absolute frame of reference against the universe given a REFSMMAT, the ORDEAL mode shifted its zero origin to mimic an aircraft's artificial horizon when orbiting the Earth or Moon, which was helpful for test pilots used to flying aircraft.
 
 P00 (Program 00)
 An idle program for the AGC. Pronounced "poo." The AGC was never completely idle, but this was as close as it got, and it ensured the AGC wouldn't try to goof up any numbers while the ground controllers were uplinking data to the spacecraft.
