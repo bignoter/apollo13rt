@@ -12284,7 +12284,7 @@ FDO and FAO, when are you going to have the time for me when we're behind the Mo
 Hold on a second now, Jack.
 
 [61 51 00 - 61 51 02] FLIGHT
-- - you're on the loop, Ed.
+- - you're on my loop, Ed.
 
 [61 51 16 - 61 51 17] FLIGHT
 What's the conclusion? We can keep the IMU up?
