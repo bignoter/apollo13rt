@@ -2416,8 +2416,14 @@ Yes.
 [57 06 01] EECOM
 Copy.
 
-[57 06 12 - 57 06 48] FLIGHT
-Okay. All flight controllers, I'm handing over to Glynn. I assume the majority of all the team guys are pretty much briefed and up to speed as best we can. Now what I'd suggest is the {white team} do two things: they go over the delogs - okay - let me go back over this again. We're handing over to Glynn. I'd suggest the white team goes back and starts going through the delog of the data. In other words, let's see if we can go back to the initial conditions and work on that problem to see if we can find out what happened and we may find some better clues as to what to do and let the fresh guys come on and try to figure out where do we go from here.
+[57 06 12 - 57 06 28] FLIGHT
+Okay. All flight controllers, I'm handing over to Glynn. I assume the majority of all the team guys are pretty much briefed and up to speed as best we can. Now what I'd suggest is the {white team} do two things: they go over the delogs 
+
+[57 06 26 - 57 06 28] ?
+FLIGHT you're on GOSS conference
+
+[57 06 28 - 57 06 51]
+- okay - let me go back over this again. We're handing over to Glynn. I'd suggest the white team goes back and starts going through the delog of the data. In other words, let's see if we can go back to the initial conditions and work on that problem to see if we can find out what happened and we may find some better clues as to what to do and let the fresh guys come on and try to figure out where do we go from here.
 1> Kranz's team was the white team. Glynn headed up black team.
 
 [57 06 51 - 57 06 55] FLIGHT
