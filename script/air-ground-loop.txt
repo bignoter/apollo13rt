@@ -224,7 +224,7 @@ Okay, she's off the line.
 13, Houston. Do you read?
 
 [56 13 20] LMP
-Yes. No, we got it.
+Yes, we got it.
 
 [56 13 21] CDR
 Affirm.
