@@ -998,7 +998,7 @@ That's affirm.
 Okay.
 
 [56 15 35 - 56 15 43] FLIGHT
-CAPCOM, we'd recommend emergency power down checklist 1-5, we want to power down a total - a delta of 10 amps from where we are now.
+CAPCOM, we'd recommend emergency power down checklist 1-5, we want to power down a total - or a delta of 10 amps from where we are now.
 
 [56 15 44] GNC
 FLIGHT, GNC.
