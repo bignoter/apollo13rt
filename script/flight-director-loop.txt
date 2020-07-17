@@ -38,7 +38,7 @@ FLIGHT, GNC.
 Go, GNC.
 
 [55 47 25 - 55 47 27] GNC
-They would still like to enable the other two quads for the maneuver.
+They would still like to re-enable the other two quads for the maneuver.
 
 [55 47 29 - 55 47 34] FLIGHT
 Okay. When rolling to 060 you want them to enable C and D, right?
